@@ -202,6 +202,3 @@ https://github.com/ArturoNGR/bgm-refugee-return-prediction
 *Model Version: 2.0 (SMOTE-enhanced)*  
 *Validation Dataset: UNHCR EU Ukraine Intentions Surveys R4+R6 (2023-2024)*
 ENDREADME
-
-# Save and display
-cat README.md
