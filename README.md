@@ -1,7 +1,7 @@
 cd /workspaces/ukr-bgm-production
 
 cat > README.md << 'ENDREADME'
-# Application of the BGM to Refugee Return Prediction in the Ukraine Situation
+# Refugee Returns Prediction using the BGM: Ukraine Situation
 **Proof of Concept for Middle-Income Country Applications**
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -233,8 +233,7 @@ This approach is **context-agnostic** by design:
 
 ### Academic Citation
 ```
-De Nieves, A. (2025). Refugee Return Prediction Using Bourdieu Capital Framework: 
-Evidence from Ukrainian Displacement. GitHub Repository. 
+De Nieves, A. (2025). Refugee Returns Prediction using the BGM: Ukraine Situation. GitHub Repository. 
 https://github.com/ArturoNGR/bgm-refugee-return-prediction
 ```
 
