@@ -1,7 +1,7 @@
 cd /workspaces/ukr-bgm-production
 
 cat > README.md << 'ENDREADME'
-# Refugee Return Prediction: A Bourdieu Capital Framework
+# Application of the BGM to Refugee Return Prediction in the Ukraine Situation
 **Proof of Concept for Middle-Income Country Applications**
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
