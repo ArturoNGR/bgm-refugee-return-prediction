@@ -79,16 +79,7 @@ Refugees who express concrete return plans within 12 months.
 
 ---
 
-## Venezuela Application Roadmap
-
-### Target Context
-
-**Venezuelan Refugee Crisis:**
-- 7.7M displaced (largest in Latin America)
-- Host countries: Colombia, Peru, Ecuador, Chile, Brazil
-- Return planning: Critical for humanitarian resource allocation
-
-### Adaptation Strategy
+## Venezuela Adaptation Strategy
 
 **Data Sources (Available):**
 
