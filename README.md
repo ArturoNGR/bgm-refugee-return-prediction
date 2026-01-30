@@ -13,7 +13,6 @@ This project demonstrates that **refugee return intentions can be predicted with
 
 **Key Achievement:** 85% ROC-AUC, 5× enrichment @ top 5%  
 **Framework:** Bourdieusian Gravity Model, BGM (de Nieves, 2025)
-
 **Status:** Production-ready for Venezuela refugee crisis application
 
 ---
