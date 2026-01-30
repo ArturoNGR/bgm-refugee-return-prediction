@@ -12,7 +12,8 @@
 This project demonstrates that **refugee return intentions can be predicted with 85% accuracy** using a theory-driven framework based on the Bourdieusian Gravity Model, BGM (de Nieves, 2025). Validated on 8,632 Ukrainian refugee households across Europe (2023-2024), the model achieves **5× efficiency** in identifying potential returners compared to random selection.
 
 **Key Achievement:** 85% ROC-AUC, 5× enrichment @ top 5%  
-**Framework:** Bourdieusian Gravity Model, BGM (de Nieves, 2025) 
+**Framework:** Bourdieusian Gravity Model, BGM (de Nieves, 2025)
+
 **Status:** Production-ready for Venezuela refugee crisis application
 
 ---
