@@ -66,7 +66,7 @@ Screening 1,000 households → **135 returners identified** (+400% efficiency)
 - **Variables:** 66 survey questions → 44 engineered features
 
 **Target Definition:**  
-High-capital returners - refugees with above-median resources (E+C+S) who express concrete return plans within 12 months.
+Refugees who express concrete return plans within 12 months.
 
 ### Key Constraints & Solutions
 
