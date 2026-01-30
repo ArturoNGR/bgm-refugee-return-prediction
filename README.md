@@ -20,7 +20,7 @@ This project demonstrates that **refugee return intentions can be predicted with
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 ### Model Performance (Ukraine Validation)
 
@@ -42,7 +42,7 @@ Screening 1,000 households → **135 returners identified** (+400% efficiency)
 
 ---
 
-## 🔬 Theoretical Foundation
+## Theoretical Foundation
 
 ### Bourdieu's Capital Framework
 
@@ -70,7 +70,7 @@ Refugee return decisions are predicted by three forms of capital:
 
 ---
 
-## 📈 Data & Methodology
+## Data & Methodology
 
 ### Data Sources (Ukraine Validation)
 
@@ -94,7 +94,7 @@ High-capital returners - refugees with above-median resources (E+C+S) who expres
 
 ---
 
-## 🌎 Venezuela Application Roadmap
+## Venezuela Application Roadmap
 
 ### Target Context
 
