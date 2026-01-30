@@ -1,6 +1,3 @@
-cd /workspaces/ukr-bgm-production
-
-cat > README.md << 'ENDREADME'
 # Refugee Returns Prediction using the BGM: Ukraine Situation
 **Proof of Concept for Middle-Income Country Applications**
 
