@@ -40,22 +40,9 @@ Screening 1,000 households → **135 returners identified** (+400% efficiency)
 
 ---
 
-## Theoretical Foundation
-
-### Bourdieu's Capital Framework
-
-Refugee return decisions are predicted by three forms of capital:
-
-1. **Economic Capital (E)**: Employment, skills, savings in origin country
-2. **Cultural Capital (C)**: Property ownership, family ties, language proficiency  
-3. **Social Capital (S)**: Maintained connections through visits, remittances
-
-**Key Insight:** High total capital (E+C+S) → Strong return likelihood  
-**Mechanism:** Capital creates "habitus" - expected position in social field
-
 ### Feature Importance (Theory Validation)
 
-96% of predictive power comes from Bourdieu capital features:
+96% of predictive power comes from BGM features:
 
 | Feature | Importance | Interpretation |
 |---------|------------|----------------|
@@ -64,7 +51,7 @@ Refugee return decisions are predicted by three forms of capital:
 | Economic × Cultural | 14% | Interaction effects matter |
 | Capital Decay | 7% | Erosion over displacement time |
 
-**Result:** Theory-driven features dominate, validating Bourdieu framework.
+**Result:** Theory-driven features dominate, validating BGM framework.
 
 ---
 
