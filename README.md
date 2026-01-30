@@ -84,33 +84,22 @@ Refugees who express concrete return plans within 12 months.
 **Data Sources (Available):**
 
 1. **UNHCR High-Frequency Surveys (HFS) 2024**
-   - Colombia, Peru, Ecuador, Chile, Brazil
-   - 10,000-50,000 per country per wave
-   - Variables: Demographics, employment, property, family ties
-
-2. **Peru ENPOVE 2022** (National Statistics Office)
-   - 9,000 Venezuelan households
-   - Comprehensive socioeconomic data
-   - Government-backed quality
+   
+2. **National Statistics (e.g.: Peru ENPOVE 2022**
 
 3. **IOM Displacement Tracking Matrix (DTM)**
-   - Mobility flows across 17 countries
-   - Validation data for actual returns
-
-**Expected Performance:** 0.75-0.82 ROC-AUC  
-(Accounting for different context: middle-income countries, longer displacement)
-
+ 
 ---
 
 ## Implementation Proposal
 
-### 6-Month Consulting Engagement
+### 6-Month TA Engagement
 
 **Deliverables:**
 
 **Month 1-2: Data Access & Preparation**
 - UNHCR Microdata Library access (HFS 2024)
-- Peru ENPOVE 2022 integration
+- Integration of national statistics (e.g.: Peru ENPOVE 2022)
 - Quality assessment & harmonization
 
 **Month 3-4: Model Development**
@@ -120,18 +109,18 @@ Refugees who express concrete return plans within 12 months.
 
 **Month 5: Deployment & Documentation**
 - Production model deployment
-- API/interface for UNHCR operations
 - Technical documentation & training
+- Prediction outputs for current displaced population
 
-**Month 6: Knowledge Transfer**
-- Staff training workshops
-- Replication guide for other contexts
-- Peer-reviewed publication draft
+**Month 6: Results Delivery & Reporting**
+- Final technical report with performance metrics and policy recommendations
+- Executive presentation
+- Scored dataset
 
 ### Budget & ROI
 
-**Investment:** $60-80K (6-month temporary appointment)  
-**Return:** 5× efficiency in return program targeting  
+**Investment:** $60 (6-month temporary appointment)  
+**ROI:** 5× efficiency in return program targeting  
 **Impact:** Optimize $M humanitarian budgets through evidence-based allocation
 
 ---
@@ -163,24 +152,6 @@ This approach is **context-agnostic** by design:
 
 ---
 
-## Ethics & Limitations
-
-### Responsible AI Principles
-
-**Transparency:** Theory-driven features are interpretable  
-**Privacy:** No personally identifiable information used  
-**Equity:** Does not discriminate - predicts voluntary returns  
-**Human-in-loop:** Predictions support, not replace, case management
-
-### Known Limitations
-
-1. **Correlation not causation:** Model predicts intentions, not actual returns
-2. **Context specificity:** Ukraine → Venezuela requires recalibration
-3. **Data requirements:** Quality survey data essential (10,000+ households preferred)
-4. **Temporal decay:** Models require periodic retraining (12-18 months)
-
----
-
 ## Deployment & Contact
 
 ### Model Status
@@ -201,7 +172,7 @@ This approach is **context-agnostic** by design:
 ✅ **Return program targeting** - Identify candidates for voluntary return assistance  
 ✅ **Resource allocation** - Prioritize integration vs return support  
 ✅ **Policy planning** - Forecast return trends for host governments  
-✅ **Research** - Test Bourdieu theory in forced migration contexts
+✅ **Research** - Test BGM in forced displacement contexts
 
 ---
 
