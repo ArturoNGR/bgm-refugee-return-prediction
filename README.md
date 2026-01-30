@@ -119,7 +119,7 @@ Refugees who express concrete return plans within 12 months.
 
 ### Budget & ROI
 
-**Investment:** $60 (6-month temporary appointment)  
+**Investment:** (6-month temporary appointment)  
 **ROI:** 5× efficiency in return program targeting  
 **Impact:** Optimize $M humanitarian budgets through evidence-based allocation
 
