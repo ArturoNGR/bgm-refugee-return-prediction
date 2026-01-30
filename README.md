@@ -125,33 +125,6 @@ Refugees who express concrete return plans within 12 months.
 
 ---
 
-## Replicability
-
-### Framework Portability
-
-This approach is **context-agnostic** by design:
-
-**Required Data (Minimum):**
-- Demographics (age, gender, education)
-- Employment status (origin & host)
-- Property ownership (origin)
-- Family ties (origin & host)
-- Return intentions
-
-**Survey Compatibility:**
-- UNHCR High-Frequency Surveys ✓
-- National household surveys ✓
-- IOM Displacement Tracking Matrix ✓
-- Custom organizational surveys ✓
-
-**Adaptable to:**
-- Syrian refugees (Turkey, Lebanon, Jordan)
-- Afghan refugees (Pakistan, Iran)
-- South Sudanese refugees (Uganda, Ethiopia)
-- Any displacement context with survey data
-
----
-
 ## Deployment & Contact
 
 ### Model Status
